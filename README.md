@@ -10,15 +10,6 @@ Technologies Used
 React: Frontend framework for building user interfaces.
 CSS: Styling the components to make the UI attractive and responsive
 
-Clone the repository:
-git clone https://github.com/yourusername/tic-tac-toe-react.git  
-
-Navigate to the project directory:
-cd tic-tac-toe-react 
-
-Install dependencies:
-npm install
-
 How to Play
 The game starts with Player "X".
 Click on any square to make a move.
