@@ -1,6 +1,6 @@
 import React from 'react'
 import Board from './TicTacToeGame/Board'
-import '../src/app.css'
+// import '../src/assets/css/style.css'
 const App = () => {
   return (
     <div>
